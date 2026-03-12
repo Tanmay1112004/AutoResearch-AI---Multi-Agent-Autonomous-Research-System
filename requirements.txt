@@ -1,0 +1,17 @@
+streamlit
+google-generativeai
+beautifulsoup4
+requests
+aiohttp
+duckduckgo-search
+arxiv
+wikipedia-api
+sentence-transformers
+faiss-cpu
+numpy
+fpdf2
+markdown
+pandas
+plotly
+pillow
+streamlit-option-menu
