@@ -47,6 +47,16 @@
 
 > 🎓 **Final Year Computer Engineering Project** | ⭐ **Featured Project** | 🏆 **Excellence in AI/ML**
 
+![demo](https://github.com/Tanmay1112004/AutoResearch-AI---Multi-Agent-Autonomous-Research-System/blob/main/screenshot/Screenshot_12-3-2026_191041_sturdy-space-dollop-97qgx7pr7p6v2p76r-8502.app.github.dev.jpeg)    
+
+![demo](https://github.com/Tanmay1112004/AutoResearch-AI---Multi-Agent-Autonomous-Research-System/blob/main/screenshot/Screenshot_12-3-2026_191123_sturdy-space-dollop-97qgx7pr7p6v2p76r-8502.app.github.dev.jpeg)    
+
+![demo](https://github.com/Tanmay1112004/AutoResearch-AI---Multi-Agent-Autonomous-Research-System/blob/main/screenshot/Screenshot_12-3-2026_19116_sturdy-space-dollop-97qgx7pr7p6v2p76r-8502.app.github.dev.jpeg)    
+
+![demo](https://github.com/Tanmay1112004/AutoResearch-AI---Multi-Agent-Autonomous-Research-System/blob/main/screenshot/Screenshot_12-3-2026_19120_sturdy-space-dollop-97qgx7pr7p6v2p76r-8502.app.github.dev.jpeg)
+
+![demo](https://github.com/Tanmay1112004/AutoResearch-AI---Multi-Agent-Autonomous-Research-System/blob/main/screenshot/Screenshot_12-3-2026_191828_sturdy-space-dollop-97qgx7pr7p6v2p76r-8502.app.github.dev.jpeg)
+
 ### 🎯 Problem Statement
 
 | Challenge | Solution |
