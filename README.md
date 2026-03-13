@@ -587,16 +587,16 @@ class Developer:
   <a href="mailto:tanmay.gupta@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/tanmaygupta">
+  <a href="https://linkedin.com/in/tanmay-kshirsagar">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/tanmaygupta">
+  <a href="https://github.com/Tanmay1112004">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://twitter.com/tanmaygupta">
+  <a href="https://twitter.com/tanmaykshirsagar">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://tanmaygupta.dev">
+  <a href="https://tanmayportfolio.ccbp.tech">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -604,9 +604,9 @@ class Developer:
 ### **Project Links**
 ```
 📘 Documentation: https://docs.autoresearch.ai
-🐛 Bug Tracker: https://github.com/tanmaygupta/autoresearch/issues
-💬 Discussion: https://github.com/tanmaygupta/autoresearch/discussions
-📦 Releases: https://github.com/tanmaygupta/autoresearch/releases
+🐛 Bug Tracker: https://github.com/tanmaykshirsagar/autoresearch/issues
+💬 Discussion: https://github.com/tanmaykshirsagar/autoresearch/discussions
+📦 Releases: https://github.com/tanmaykshirsagar/autoresearch/releases
 ```
 
 <p align="center">
