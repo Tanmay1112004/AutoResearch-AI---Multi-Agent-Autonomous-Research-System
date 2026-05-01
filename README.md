@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/python-3.9+-ff6b6b?style=for-the-badge&logo=python" alt="Python"/>
   <img src="https://img.shields.io/badge/streamlit-1.32.0-4ecdc4?style=for-the-badge&logo=streamlit" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/gemini-1.5--flash-45b7d1?style=for-the-badge&logo=google" alt="Gemini"/>
-  <img src="https://img.shields.io/badge/license-MIT-96ceb4?style=for-the-badge" alt="License"/>
+  
 </p>
 
 <p align="center">
