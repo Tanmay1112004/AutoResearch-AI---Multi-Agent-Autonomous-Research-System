@@ -222,7 +222,7 @@ graph TD
 
 ### One-Line Installation
 ```bash
-git clone https://github.com/yourusername/autoresearch-ai.git
+git clone https://github.com//autoresearch-ai.git
 cd autoresearch-ai
 pip install -r requirements.txt
 streamlit run app.py
