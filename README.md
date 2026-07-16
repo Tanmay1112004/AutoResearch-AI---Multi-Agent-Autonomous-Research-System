@@ -238,7 +238,7 @@ streamlit run app.py
 ### Step 1: Clone the Repository
 ```bash
 # Using HTTPS
-git clone https://github.com/yourusername/autoresearch-ai.git
+git clone https://github.com//autoresearch-ai.git
 
 # Using SSH
 git clone git@github.com:yourusername/autoresearch-ai.git
