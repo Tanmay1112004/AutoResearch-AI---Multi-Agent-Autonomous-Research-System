@@ -644,3 +644,5 @@ If you like this project, please give it a ⭐ on GitHub!
   <b>Made with ❤️ by Tanmay Kshirsagar | Final Year Computer Engineering Student</b><br>
   <sub> AutoResearch AI. All rights reserved.</sub>
 </p>
+
+---
