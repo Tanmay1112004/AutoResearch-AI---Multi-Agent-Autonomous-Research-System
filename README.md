@@ -641,7 +641,7 @@ If you like this project, please give it a ⭐ on GitHub!
 </p>
 
 <p align="center">
-  <b>Made with ❤️ by Tanmay Kshirsagar | Final Year Computer Engineering Student</b><br>
+  <b>Made by Tanmay Kshirsagar | Final Year Computer Engineering Student</b><br>
   <sub> AutoResearch AI. All rights reserved.</sub>
 </p>
 
