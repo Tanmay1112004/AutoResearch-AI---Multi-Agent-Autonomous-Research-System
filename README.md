@@ -583,7 +583,6 @@ class Developer:
 ### **Achievements**
 - 🏆 **Best Final Year Project** Nominee
 - 📝 **Published Research** on Multi-Agent Systems
-- 🎤 **Speaker** at Tech Conference 2024
 - 💡 **Open Source Contributor**
 
 <p align="center">
@@ -646,3 +645,4 @@ If you like this project, please give it a ⭐ on GitHub!
 </p>
 
 ---
+
